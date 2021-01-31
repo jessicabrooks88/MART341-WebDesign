@@ -1,0 +1,29 @@
+1. Provide three websites that you enjoy visiting?
+	www.pinterest.com
+	www.shein.com
+	www.amazon.com
+
+2. What is the relationship between an IP address and the DNS?
+	DNS is the Domain Name System. It is an internet service that translates domain names/host names to IP addresses
+and IP addresses to their associated domain names/host names with the help of a DNS server. An IP address is used to identify
+the computer that is connected to the internet and is a displayed as a group of numbers seperated by dots.
+
+3. What is a cookie?
+	A cookie is a small text file that has been given an ID tag. It is stored in your computer's browser directory or
+program data subfolders.
+
+4. List the three essential parts of a URL.
+	Three essential parts are: scheme, host, and a path. The scheme is the HTTP part. A host is the name that identifies
+the resource. For example, in Amazon.com, the host would be the .com part. The path identifies the specific resource in the host
+that the web client wants to access. If you are looking through blog posts, for example, your URL might 
+read: www.wordpress.com/blog/archives. The path is "/blog/archives."
+
+5. In your README.md, use Markdown and add the title
+"Assignment 3" with a heading 1. Underneath, add your name as
+a heading 2.
+
+6. Add a list of 3 things you've learned so far.
+	So far I have learned what a cookie is, which I never knew and simply hit "accept" when a website would mention
+the storing of them. I learned that the DNS system works in tandem with the IP address to identify my computer. I am also
+starting to understand the usefulness and context of README files and why they are important--again something I previously
+dismissed because I wasn't sure what its use was. Learning a lot so far!
