@@ -1,0 +1,3 @@
+A web browser is a software program used to access the internet from a device. Web designers use languages like HTML, CSS, and Javascript to write the instructions that browsers translate and render into the intended layouts of text, graphics, and other content. I currently use Google Chrome to surf the web but I use Duck Duck Go as my homepage/search engine.
+A markup language is what dictates the page's architecture, with a focus on its text (although not exclusively). One markup language that is commonly used is HTML. It functions as the foundation and structure of a page's content.
+<img src="/assignment-04/images/screenshot.png">
