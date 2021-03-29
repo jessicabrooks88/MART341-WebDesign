@@ -1,0 +1,5 @@
+13. How many main document <head> and <body> elements can a page have? How are these elements different, or what role do they play?
+There are 5 head elements: meta, viewport, title, link, and style. There are 2 body elements. With the head elements, they tell the browser and processor information about the HTML document. It is also a container for processing information and document metadata. With the body elements, there is structural and semantic markup. This area covers the data that is rendered by the browser and displayed on the client's local computer.
+14. Describe the difference between structural and semantic markup.
+ Structural embeds information about the structure of a document. Semantic markup is used to reinforce the meaning of the information in a document.
+ 15. This one was a bit easier, although I was rusty from missing time from being sick. So it was nice to know that brushing back up on it wasn't as hard as I thought it would be. I really like the guided lessons.
