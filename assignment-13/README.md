@@ -1,0 +1,6 @@
+1. Who was your imaginary client? How did they describe their site needs?
+I chose the imaginary client "Pink Bar" because of all the neat pictures that came up when I googled it.  They described their needs as being simple and wanting their customers to be able to contact them, know what they're about, and mostly show them pictures of what the place looks like on the inside for possible investors.
+2. Why is it important to consider a mobile-first design?
+It is important to consider a mobile-first design because the layout on a phone is going to look totally different than on a desktop. Most people use their phones to surf the web these days and so mobile layout is first priority over desktop view. You also want to be able to get as much information up front to the user and that means laying it all out in one page with little to no scrolling necessary, so the user gets that instant gratification feel to your site.
+3. Free Response: Please discuss your challenges and how you overcame them
+I had trouble figuring out the last half of the assignment, mostly due to not feeling like the course material was enough for me to get what I needed to do. I plan on asking for help and starting my next assignment early incase I run into more problems.
