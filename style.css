@@ -1,0 +1,74 @@
+<html>
+<head>
+<style>
+.myDiv {
+  border: 5px outset black;
+  background-color: white;
+  text-align: center;
+}
+#heading-1 {
+    font-family: 'Comic Sans MS', 'Comic Sans', Trebuchet MS, Verdana, sans-serif;
+    font-size: 12 px;
+    font-weight: bold;
+    word-spacing: normal;
+    text-align: center;
+}
+/* PSEUDO ELEMENT - Select the first letter that occurs: */
+.main-content p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 2.5em;
+   font-weight: bold;
+}
+.main-content p:first-child::first-line {
+   color: #E95420;
+}
+
+/* PSEUDO CLASS - Select the first paragraph child: */
+.main-content p:first-child {
+   text-indent: 0;
+}
+
+.change-01 {
+  font-size: 75%;
+}
+
+.change-02 {
+  font-size: 125%;
+}
+
+.change-03 {
+  font-size: 150%;
+}
+.element-1 {
+   font-size: 1.5em;
+   font-family: sans-serif;
+}
+a:link {
+   color: #79AF33;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #777;
+   text-decoration: none;
+}
+
+a:hover {
+   color: blue;
+   font-style: italic;
+}
+</style>
+</head>
+<body>
+
+<div class="myDiv">
+  <h2><b>Excerpt from Less Than Zero</b><br>
+  by Bret Easton Ellis<br>
+1985<br>
+  </h2>
+  <p>Blair drives off the freeway and comes to a red light. A heavy gust of wind rocks the car for a moment and Blair smiles and says something about maybe putting the top up and turns to a different radio station. Coming to my house, Blair has to stop the car since there are these five workmen lifting the remains of palm trees that have fallen during the winds and placing the leaves and pieces of dead bark in a big red truck, and Blair smiles again. She stops at my house and the gate's open and I get out of the car, surprised to feel how dry and hot it is. I stand there for a pretty long time and Blair, after helping me lift the suitcases out of the trunk, grins at me and asks, "What's wrong?" and I say, "Nothing," and Blair says, "You look pale," and I shrug and we say goodbye and she gets into her car and drives away.
+</p>
+</div>
+
+</body>
+</html>
