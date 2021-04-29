@@ -1,0 +1,50 @@
+<html>
+<head>
+* {
+  text-align: center;
+  color: blue;
+}
+<style>
+.fashion {
+  background-color: green;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+<div style="background-image: url('y2k.jpg');">
+div {
+  max-width: 500px;
+  height: 100px;
+  background-color: lightblue;
+  opacity: 0.5;
+  position: static;
+  border: 3px solid #73AD21;
+}
+/* Set the text color to black */
+p {
+  color: black;
+}
+</style>
+</head>
+<title><b>Popular Items</b></title>
+<body>
+
+<div class="fashion">
+  <h2>Tracksuits</h2>
+  <p>Tracksuits were popularized by the brand Juicy Couture.</p>
+</div>
+<img src="britney.jpg" alt="Britney Spears in JC." width="500" height="600">
+
+<div class="fashion">
+  <h2>Trucker Hats</h2>
+  <p>Trucker hats were especially favored by young celebrities.</p>
+</div>
+<img src="hats.jpg" alt="Celebs in TH." width="500" height="600">
+
+<div class="fashion">
+  <h2>Black Chokers</h2>
+  <p>Chokers could be seen on popular shows like Laguna Beach
+  and The O.C.</p>
+</div>
+<img src="choker.jpg" alt="Kristin Cavallari." width="500" height="600">
